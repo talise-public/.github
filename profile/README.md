@@ -8,7 +8,7 @@
 
 A gasless US dollar account on Sui. Send by name, settle in under a second, keep the amount private. Live on mainnet.
 
-[Live app](https://app.talise.io) · [Overview and pitch](https://github.com/talise-public/talise-docs) · [X](https://x.com/taliseio)
+[Website](https://talise.io) · [Overview and pitch](https://github.com/talise-public/talise-docs) · [X](https://x.com/taliseio)
 
 </div>
 
