@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://app.talise.io/symbol.svg" width="92" alt="Talise" />
+<img src="talise-logo.png" width="96" alt="Talise" />
 
 # Talise
 
