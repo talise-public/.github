@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.png" alt="Talise: money that moves like a message" width="100%" />
+<img src="hero.jpg" alt="Talise: money that moves like a message" width="100%" />
 
 # Talise
 
